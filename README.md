@@ -1,133 +1,43 @@
-# 📘 Machine Learning Specialization Assignments
+# Machine Learning Specialization – Coursera
 
-Welcome to the **Machine Learning Specialization Assignments Repository** by [khawajaacode](https://github.com/khawajaacode). This repository features clear and well-structured solutions for the Coursera **Machine Learning Specialization** by **Andrew Ng**, offered in collaboration with DeepLearning.AI and Stanford University.
+![](/resources/title-head.png)
 
-The coursework is divided into three main tracks:
-
-1. **Supervised Machine Learning**  
-2. **Advanced Learning Algorithms**  
-3. **Unsupervised Learning, Recommenders, and Reinforcement Learning**
+Contains solutions and assignments for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by **Andrew Ng** on Coursera.
 
 ---
 
-## 📂 Project Structure
+## Course 1: [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
-```text
-khawajaacode-machine-learning-specialization/
-├── README.md
-├── LICENSE
-├── C1 - Supervised Machine Learning - Regression and Classification/
-│   ├── C1_W2_Linear_Regression.ipynb
-│   └── C1_W3_Logistic_Regression.ipynb
-├── C2 - Advanced Learning Algorithms/
-│   ├── C2_W1_Assignment.ipynb
-│   ├── C2_W2_Assignment.ipynb
-│   ├── C2_W3_Assignment.ipynb
-│   └── C2_W4_Decision_Tree_with_Markdown.ipynb
-└── C3 - Unsupervised Learning, Recommenders, Reinforcement Learning/
-    ├── C3_W1_Anomaly_Detection.ipynb
-    ├── C3_W1_KMeans_Assignment.ipynb
-    ├── C3_W2_Collaborative_RecSys_Assignment.ipynb
-    ├── C3_W2_RecSysNN_Assignment.ipynb
-    └── C3_W3_A1_Assignment.ipynb
-```
+- [Week 2 – Linear Regression](C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/C1_W2_Linear_Regression.ipynb)
+- [Week 3 – Logistic Regression](C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/C1_W3_Logistic_Regression.ipynb)
+
+📜 [Certificate of Completion](https://coursera.org/share/your-course1-certificate-link)
 
 ---
 
-## 🚀 Getting Started
+## Course 2: [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 
-### 🔧 Prerequisites
+- [Week 1 – Neural Networks for Binary Classification](C2%20-%20Advanced%20Learning%20Algorithms/C2_W1_Assignment.ipynb)
+- [Week 2 – Neural Networks for Handwritten Digit Recognition](C2%20-%20Advanced%20Learning%20Algorithms/C2_W2_Assignment.ipynb)
+- [Week 3 – Advice for Applying Machine Learning](C2%20-%20Advanced%20Learning%20Algorithms/C2_W3_Assignment.ipynb)
+- [Week 4 – Decision Trees & Tree Ensembles](C2%20-%20Advanced%20Learning%20Algorithms/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
-Ensure you have the following installed:
-
-- Python 3.8+
-- Jupyter Notebook or Jupyter Lab
-- Python libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`
-
-Install all dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
-💡 *Tip: Use a virtual environment to avoid package conflicts.*
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-### ▶️ Running the Notebooks
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/khawajaacode-machine-learning-specialization.git
-cd khawajaacode-machine-learning-specialization
-```
-
-2. Launch Jupyter:
-
-```bash
-jupyter notebook
-```
-
-3. Open the desired `.ipynb` file from the relevant course folder.
+📜 [Certificate of Completion](https://coursera.org/share/your-course2-certificate-link)
 
 ---
 
-## 📚 Course Breakdown
+## Course 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
-### 📘 Course 1: Supervised Machine Learning
+- [Week 1 – Anomaly Detection](C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_Anomaly_Detection.ipynb)
+- [Week 1 – K-Means Clustering](C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_KMeans_Assignment.ipynb)
+- [Week 2 – Collaborative Filtering](C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+- [Week 2 – Recommender Systems using Neural Networks](C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_RecSysNN_Assignment.ipynb)
+- [Week 3 – Reinforcement Learning](C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W3_A1_Assignment.ipynb)
 
-- **Linear Regression**
-  - `C1_W2_Linear_Regression.ipynb`
-  - Covers univariate/multivariate regression, feature scaling, gradient descent.
-
-- **Logistic Regression**
-  - `C1_W3_Logistic_Regression.ipynb`
-  - Focuses on binary classification, logistic loss, regularization, and visualization.
-
-### 📗 Course 2: Advanced Learning Algorithms
-
-- **Week 1:** Regularized models, bias-variance analysis  
-- **Week 2:** Support Vector Machines (SVM), kernels  
-- **Week 3:** Intro to unsupervised learning techniques  
-- **Week 4:** Decision Trees & Ensemble Methods *(well-documented in Markdown)*
-
-### 📙 Course 3: Unsupervised Learning, Recommenders, and Reinforcement Learning
-
-- **Anomaly Detection**: Using Gaussian distributions and threshold optimization  
-- **K-Means Clustering**: Implementation and visualization of clusters  
-- **Collaborative Filtering**: Memory- and model-based recommender systems  
-- **Neural Network Recommenders**: Simple NN architecture for recommendation tasks  
-- **Reinforcement Learning**: Fundamentals of MDPs and value iteration
+📜 [Certificate of Completion](https://coursera.org/share/your-course3-certificate-link)
 
 ---
 
-## 🤝 Contributing
+> ⭐ **If this repository helped you or inspired you, please consider giving it a star!**
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository  
-2. Create a new branch: `git checkout -b feature/YourFeature`  
-3. Commit your changes: `git commit -m 'Add a new feature'`  
-4. Push your branch: `git push origin feature/YourFeature`  
-5. Open a Pull Request 🚀
-
-Please make sure:
-
-- Notebooks run without error  
-- Any new dependencies are added to `requirements.txt`
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it with proper attribution.
-
----
-
-> ⭐ **If this repository helps you, don't forget to star it!**
-
-Happy Learning and Coding! 🎓💻
+Happy Learning! 🚀
