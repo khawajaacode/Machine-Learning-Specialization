@@ -11,7 +11,7 @@ Contains solutions and assignments for the [Machine Learning Specialization](htt
 - [Week 2 – Linear Regression](C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/C1_W2_Linear_Regression.ipynb)
 - [Week 3 – Logistic Regression](C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/C1_W3_Logistic_Regression.ipynb)
 
-📜 [Certificate of Completion](https://coursera.org/share/your-course1-certificate-link)
+📜 [Certificate of Completion](https://coursera.org/share/073dd1b8cc3b816658d61b34560462a8)
 
 ---
 
@@ -22,7 +22,7 @@ Contains solutions and assignments for the [Machine Learning Specialization](htt
 - [Week 3 – Advice for Applying Machine Learning](C2%20-%20Advanced%20Learning%20Algorithms/C2_W3_Assignment.ipynb)
 - [Week 4 – Decision Trees & Tree Ensembles](C2%20-%20Advanced%20Learning%20Algorithms/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
-📜 [Certificate of Completion](https://coursera.org/share/your-course2-certificate-link)
+📜 [Certificate of Completion](https://coursera.org/share/cf77918aa410e45b3ddc0f4ef028f566) 
 
 ---
 
@@ -34,7 +34,7 @@ Contains solutions and assignments for the [Machine Learning Specialization](htt
 - [Week 2 – Recommender Systems using Neural Networks](C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_RecSysNN_Assignment.ipynb)
 - [Week 3 – Reinforcement Learning](C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W3_A1_Assignment.ipynb)
 
-📜 [Certificate of Completion](https://coursera.org/share/your-course3-certificate-link)
+📜 [Certificate of Completion](https://coursera.org/share/d3e2ff87d13a5309bda563f735ec2de3)
 
 ---
 
